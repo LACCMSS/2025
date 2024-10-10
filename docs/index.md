@@ -31,7 +31,7 @@ An increasing number of modern applications of physics, chemistry, materials sci
 | LANL onboarding package deadline | March 1, 2025 |
 | Poster title and travel itinerary | April 30, 2025 |
 | Arrival and check in | June 8, 2025 |
-| Summer School | June 9-20, 2025 |
+| Summer School | June 16-27, 2025 |
 
 
 ## Topics Covered
