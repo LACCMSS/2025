@@ -19,4 +19,4 @@ By Land
 CAR RENTALS: Los Alamos may be reached from Albuquerque International Airport by a scenic two-hour drive. Rental cars are available at the Albuquerque airport through all major companies.
 
 By Sea
-<br>Los Alamos is equidistant from the Ports of Houston, TX and Los Angeles, CA. Connect with another mode of transportation.  
+<br>Los Alamos is equidistant from the ports of Houston, TX and Los Angeles, CA. Connect with another mode of transportation.  
