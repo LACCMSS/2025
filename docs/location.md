@@ -11,4 +11,12 @@ Los Alamos National Laboratory, Los Alamos, NM (Building/room: TBD)
 
 
 ## How to get to Los Alamos?
-Coming soon!
+By Air
+<br>We recommend that our visitors make their own flight arrangements. Please choose the most economical fare available. You should arrange to fly into the Albuquerque airport being the major air terminal, airport code ABQ. The Albuquerque airport is 75 miles away from Los Alamos. (See Map 1) Santa Fe, the airport code is SAF, is about 30 miles away and has one commercial airline servicing the area. SAF flights tend to be slightly more expensive.
+
+By Land
+<br>A rental car and or shuttle service is required to reach Los Alamos from Albuquerque.
+CAR RENTALS: Los Alamos may be reached from Albuquerque International Airport by a scenic two-hour drive. Rental cars are available at the Albuquerque airport through all major companies.
+
+By Sea
+<br>
