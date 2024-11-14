@@ -24,7 +24,7 @@ An increasing number of modern applications of physics, chemistry, materials sci
 ## Important Dates:
 |       | Date |
 |-------|------|
-| Application open | October 15, 2024 |
+| Application open | November 15, 2024 |
 | Application deadline | January 1, 2025 |
 | Results announced | January 15, 2025 |
 | Registration | January 31, 2025 |
