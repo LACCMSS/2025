@@ -12,7 +12,7 @@ title: Los Alamos Computational Condensed Matter Summer School 2025
   <img src="assets/images/background.jpg" />
 </p>
 
-**Los Alamos National Laboratory (LANL) will host the 2025 Los Alamos Computational Condensed Matter Summer School in Los Alamos, New Mexico on June 9-20, 2025.**
+**Los Alamos National Laboratory (LANL) will host the 2025 Los Alamos Computational Condensed Matter Summer School in Los Alamos, New Mexico on June 16-27, 2025.**
 
 <!--The 2025 Los Alamos Computational Condensed Matter Summer School will expose students to modern and emerging theoretical, computational, and experimental techniques, and gain hands-on training in applying these approaches to current problems in the physical sciences and engineering.-->
 
