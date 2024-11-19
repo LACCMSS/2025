@@ -37,8 +37,8 @@ An increasing number of modern applications of physics, chemistry, materials sci
 ## Topics Covered
 * Foundations of Density Functional Theory and Electronic Structure
 * The Effect of Electronic Correlations and Many-Body Theory
-* Numerical Approach to the Many-Body Problem: DMRG, QMC, DMFT, Gutzwiller
-* Background of Modern Experimental Spectroscopies, e.g. ARPES, STM, Neutron Scattering, Optical Spectroscopy
+* Numerical Approach to the Many-Body Problem: e.g., DMRG, QMC, DMFT, Gutzwiller
+* Background of Modern Experimental Spectroscopies, e.g., ARPES, STM, Neutron Scattering, Optical Spectroscopy
 * Material Informatics and ML/AI for Quantum Materials
 
 
