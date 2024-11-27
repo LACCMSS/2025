@@ -46,7 +46,7 @@ Travel, room, and board will be provided.
 * Material Informatics and ML/AI for Quantum Materials
 
 
-## How to Apply: [here](apply.md)
+## How to Apply: [Here](apply.md)
 
 
 ## Organizers
