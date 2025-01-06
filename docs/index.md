@@ -53,6 +53,7 @@ Travel, room, and board will be provided.
 * Christopher Lane, Theoretical Division, Los Alamos
 * Roxanne Tutchton, Theoretical Division, Los Alamos
 * Elizabeth Peterson, Theoretical Division, Los Alamos
+* Jianxin Zhu, Theoretical Division, Los Alamos
 * Ying Wai Li, Computer, Computational, and Statistical Sciences Division, Los Alamos
 * Johanna Palmstrom, National High Magnetic Field Laboratory: Pulsed Field Facility
 * Yue Huang, Center for Integrated Nanotechnologies
