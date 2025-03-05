@@ -30,7 +30,7 @@ Travel, room, and board will be provided.
 |-------|------|
 | Application open | November 15, 2024 |
 | Application deadline | <s>January 1, 2025</s> (**extended to February 1, 2025**)|
-| Results announced | <s>January 15, 2025</s> February 15, 2025 <i style="text-color:Tomato;">We are currently finalizing our selection, we will announce the our decision soon.</i>|
+| Results announced | <s>January 15, 2025</s> February 15, 2025 <i style="text-color:Tomato;">Notice of acceptance have been sent.</i>|
 | Registration | <s>January 31, 2025</s> February 28, 2025 |
 | LANL onboarding package deadline | March 7, 2025 |
 | Poster title and travel itinerary | April 30, 2025 |
