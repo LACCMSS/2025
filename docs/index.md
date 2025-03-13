@@ -63,8 +63,7 @@ Travel, room, and board will be provided.
 ## Sponsors
 * [Institute for Materials Science (IMS)](https://collaboration.lanl.gov/nsec/institute-for-materials-science/), LANL
 * [Center for Nonlinear Studies (CNLS)](https://cnls.lanl.gov/External/), LANL
+* [Center for Integrated Nanotechnology (CINT)](https://cint.lanl.gov/), LANL
 * [Institutional Computing](https://www.lanl.gov/org/ddste/aldsc/hpc/index.php), LANL
-<!--
-* Institute for Complex Adaptive Matter (ICAM)
-* Information Science and Technology Institute (ISTI), LANL
--->
+* [International Institute for Complex Adaptive Matter (ICAM-I2CAM)](https://www.icam-i2cam.org/)
+
