@@ -4,7 +4,6 @@ hide:
   - toc
 title: Lecturers
 ---
-
 <br>Cristian Batista, University of Tennessee, Knoxville
 <br>Inna Vishik, University of California, Davis
 <br>Yonglong Xie, Rice University
