@@ -7,6 +7,7 @@ title: Lecturers
 Confirmed Lecturers
 <br>Cristian Batista, University of Tennessee, Knoxville
 <br>Inna Vishik, University of California, Davis
+<br>Richard Scalettar, University of California, Davis
 <br>Felipe Jornada, Stanford University
 <br>Jian-Xin Zhu, Los Alamos National Laboratory
 <br>Kipton Barros, Los Alamos National Laboratory
