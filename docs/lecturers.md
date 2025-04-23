@@ -5,6 +5,7 @@ hide:
 title: Lecturers
 ---
 Confirmed Lecturers
+<br>Gustavo E. Scuseria, Rice University
 <br>Cristian Batista, University of Tennessee, Knoxville
 <br>Inna Vishik, University of California, Davis
 <br>Richard Scalettar, University of California, Davis
