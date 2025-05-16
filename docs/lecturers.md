@@ -6,11 +6,16 @@ title: Lecturers
 ---
 Confirmed Lecturers
 <br>Gustavo E. Scuseria, Rice University
-<br>Cristian Batista, University of Tennessee, Knoxville
+<br>Rick Remsing, Rutgers University
 <br>Inna Vishik, University of California, Davis
 <br>Richard Scalettar, University of California, Davis
-<br>Felipe Jornada, Stanford University
+<br>Felipe H da Jornada, Stanford University
+<br>David Dahlbom, Oak Ridge National Laboratory
+<br>Prashant Padmanabhan, Center for Integrated Nanotechnologies
+<br>Theresa Kucinski, Center for Integrated Nanotechnologies
+<br>John Singleton, National High Magnetic Field Laboratory: Pulsed Field Facility
+<br>Sergei Tretiak, Los Alamos National Laboratory
 <br>Jian-Xin Zhu, Los Alamos National Laboratory
 <br>Kipton Barros, Los Alamos National Laboratory
-<br>John Singleton, Los Alamos National Laboratory
 <br>Allen Scheie, Los Alamos National Laboratory
+<br>Nicholas Lubbers, Los Alamos National Laboratory
