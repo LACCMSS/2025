@@ -4,20 +4,20 @@ hide:
   - toc
 title: Lecturers
 ---
-<br>Gustavo E. Scuseria, Rice University
-<br>Rick Remsing, Rutgers University
-<br>Inna Vishik, University of California, Davis
-<br>Richard Scalettar, University of California, Davis
-<br>Felipe H da Jornada, Stanford University
-<br>David Dahlbom, Oak Ridge National Laboratory
-<br>Prashant Padmanabhan<sup>&#42;</sup>, Center for Integrated Nanotechnologies
-<br>Theresa Kucinski, Center for Integrated Nanotechnologies
-<br>John Singleton, National High Magnetic Field Laboratory: Pulsed Field Facility
-<br>Sergei Tretiak, Los Alamos National Laboratory
-<br>Jian-Xin Zhu, Los Alamos National Laboratory
-<br>Kipton Barros, Los Alamos National Laboratory
-<br>Allen Scheie, Los Alamos National Laboratory
-<br>Nicholas Lubbers, Los Alamos National Laboratory
+<br>Gustavo E. Scuseria, <i>Rice University</i>
+<br>Rick Remsing, <i>Rutgers University</i>
+<br>Inna Vishik, <i>University of California, Davis</i>
+<br>Richard Scalettar, <i>University of California, Davis</i>
+<br>Felipe H da Jornada, <i>Stanford University</i>
+<br>David Dahlbom, <i>Oak Ridge National Laboratory</i>
+<br>Prashant Padmanabhan<sup>&#42;</sup>, <i>Center for Integrated Nanotechnologies</i>
+<br>Theresa Kucinski, <i>Center for Integrated Nanotechnologies</i>
+<br>John Singleton, <i>National High Magnetic Field Laboratory: Pulsed Field Facility</i>
+<br>Sergei Tretiak, <i>Los Alamos National Laboratory</i>
+<br>Jian-Xin Zhu, <i>Los Alamos National Laboratory</i>
+<br>Kipton Barros, <i>Los Alamos National Laboratory</i>
+<br>Allen Scheie, <i>Los Alamos National Laboratory</i>
+<br>Nicholas Lubbers, <i>Los Alamos National Laboratory</i>
 <br>
 <br>
 <sup>&#42;</sup>To be Confirmed
