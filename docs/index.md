@@ -12,7 +12,7 @@ title: Los Alamos Computational Condensed Matter Summer School 2025
   <img src="assets/images/background.jpg" />
 </p>
 
-**Los Alamos National Laboratory (LANL) will host the 2025 Los Alamos Computational Condensed Matter Summer School in Los Alamos, New Mexico on June 16-27, 2025.**
+**Los Alamos National Laboratory will host the Los Alamos Computational Condensed Matter Summer School 2025 in Los Alamos, New Mexico on June 16-27, 2025.**
 
 <!--The 2025 Los Alamos Computational Condensed Matter Summer School will expose students to modern and emerging theoretical, computational, and experimental techniques, and gain hands-on training in applying these approaches to current problems in the physical sciences and engineering.-->
 
@@ -29,9 +29,9 @@ Travel, room, and board will be provided.
 |       | Date |
 |-------|------|
 | Application open | November 15, 2024 |
-| Application deadline | <s>January 1, 2025</s> (**extended to February 1, 2025**)|
-| Results announced | <s>January 15, 2025</s> February 15, 2025 <i style="text-color:Tomato;">Notice of acceptance have been sent.</i>|
-| Registration | <s>January 31, 2025</s> February 28, 2025 |
+| Application deadline | <s>January 1, 2025 (**extended to February 1, 2025**)</s>|
+| Results announced | <s>January 15, 2025 February 15, 2025</s> <i style="text-color:Tomato;">Notice of acceptance have been sent.</i>|
+| Registration | <s>January 31, 2025 February 28, 2025</s> |
 | LANL onboarding package deadline | <s>March 7, 2025</s> |
 | Travel Itinerary Submitted | May 30, 2025 |
 | Poster Title and Lightning Slide Submitted | June 1, 2025 |
