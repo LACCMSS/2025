@@ -6,15 +6,12 @@ title: Los Alamos Computational Condensed Matter Summer School 2025
 #template: home.html
 ---
 
-# Los Alamos Computational Condensed Matter Summer School 2025 - Closing the Loop Between Experiment and Theory
+# Los Alamos Computational Condensed Matter Summer School 2025
+# - Closing the Loop Between Experiment and Theory
 
 <p align="center">
   <img src="assets/images/lanl.jpg" />
 </p>
-
-**Los Alamos National Laboratory will host the Los Alamos Computational Condensed Matter Summer School 2025 in Los Alamos, New Mexico on June 16-27, 2025.**
-
-<!--The 2025 Los Alamos Computational Condensed Matter Summer School will expose students to modern and emerging theoretical, computational, and experimental techniques, and gain hands-on training in applying these approaches to current problems in the physical sciences and engineering.-->
 
 ## Overview
 An increasing number of modern applications of physics, chemistry, materials science, and engineering rely on materials that exhibit manifestations of quantum physics. These quantum materials hold the key not only to new advanced technologies but also to raise fundamental questions about the microscopic physical world. To understand such systems, it has become increasingly necessary to employ a combination of high-resolution spectroscopies and theoretical modeling of the interplay of spin, charge, orbital, and lattice degrees of freedom in parallel to disentangle the rich tapestry of complex properties. 
