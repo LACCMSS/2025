@@ -9,7 +9,7 @@ title: Los Alamos Computational Condensed Matter Summer School 2025
 # Los Alamos Computational Condensed Matter Summer School 2025<br>- Closing the Loop Between Experiment and Theory
 
 <p align="center">
-  <img src="assets/images/lanl.jpg" />
+  <img src="assets/images/lanl.jpg" width="50%" height="50%" />
 </p>
 
 ## Overview
