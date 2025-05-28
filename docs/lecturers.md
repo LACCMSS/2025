@@ -10,7 +10,7 @@ title: Lecturers
 <br>Richard Scalettar, <i>University of California, Davis</i>
 <br>Felipe H da Jornada, <i>Stanford University</i>
 <br>David Dahlbom, <i>Oak Ridge National Laboratory</i>
-<br>Prashant Padmanabhan<sup>&#42;</sup>, <i>Center for Integrated Nanotechnologies</i>
+<br>Prashant Padmanabhan, <i>Center for Integrated Nanotechnologies</i>
 <br>Theresa Kucinski, <i>Center for Integrated Nanotechnologies</i>
 <br>John Singleton, <i>National High Magnetic Field Laboratory: Pulsed Field Facility</i>
 <br>Sergei Tretiak, <i>Los Alamos National Laboratory</i>
@@ -18,6 +18,9 @@ title: Lecturers
 <br>Kipton Barros, <i>Los Alamos National Laboratory</i>
 <br>Allen Scheie, <i>Los Alamos National Laboratory</i>
 <br>Nicholas Lubbers, <i>Los Alamos National Laboratory</i>
+<br>Roxanne Tutchton, <i>Los Alamos National Laboratory</i>
+<br>Elizabeth Peterson, <i>Los Alamos National Laboratory</i>
+<br>Christopher Lane, <i>Los Alamos National Laboratory</i>
 <br>
 <br>
-<sup>&#42;</sup>To be Confirmed
+
