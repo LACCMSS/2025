@@ -6,5 +6,5 @@ title: Schedule
 ---
 
 <p align="center">
-  <img src="../assets/images/SchoolSchedule.png" />
+  <img src="../assets/images/Schedule_at_a_Glance.png" />
 </p>
