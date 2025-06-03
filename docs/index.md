@@ -29,8 +29,8 @@ Travel, room, and board will be provided.
 | Results announced | <s>January 15, 2025 February 15, 2025</s> <i style="text-color:Tomato;">Notice of acceptance have been sent.</i>|
 | Registration | <s>January 31, 2025 February 28, 2025</s> |
 | LANL onboarding package deadline | <s>March 7, 2025</s> |
-| Travel Itinerary Submitted | May 30, 2025 |
-| Poster Title and Lightning Slide Submitted | June 1, 2025 |
+| Travel Itinerary Submitted | <s>May 30, 2025</s> |
+| Poster Title and Lightning Slide Submitted | <s>June 1, 2025</s> |
 | Arrival and Check-in | June 15, 2025 |
 | LACCM Summer School | June 16-27, 2025 |
 | Departure | June 28, 2025 |
