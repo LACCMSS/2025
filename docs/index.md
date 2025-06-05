@@ -59,7 +59,7 @@ Travel, room, and board will be provided.
 
 
 ## Sponsors
-* [Institute for Materials Science (IMS)](https://collaboration.lanl.gov/nsec/institute-for-materials-science/), LANL
+* [Institute for Materials Science (IMS)](https://www.lanl.gov/engage/collaboration/nsec/institute-for-materials-science), LANL
 * [Center for Nonlinear Studies (CNLS)](https://cnls.lanl.gov/External/), LANL
 * [Center for Integrated Nanotechnology (CINT)](https://cint.lanl.gov/), LANL
 * [Institutional Computing](https://www.lanl.gov/org/ddste/aldsc/hpc/index.php), LANL
