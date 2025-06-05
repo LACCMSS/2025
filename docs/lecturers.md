@@ -14,6 +14,7 @@ title: Lecturers
 <br>Theresa Kucinski, <i>Center for Integrated Nanotechnologies</i>
 <br>John Singleton, <i>National High Magnetic Field Laboratory: Pulsed Field Facility</i>
 <br>Sergei Tretiak, <i>Los Alamos National Laboratory</i>
+<br>Cynthia Reichhardt, <i>Los Alamos National Laboratory</i>
 <br>Jian-Xin Zhu, <i>Los Alamos National Laboratory</i>
 <br>Kipton Barros, <i>Los Alamos National Laboratory</i>
 <br>Allen Scheie, <i>Los Alamos National Laboratory</i>
