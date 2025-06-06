@@ -18,6 +18,7 @@ title: Lecturers
 <br>Jian-Xin Zhu, <i>Los Alamos National Laboratory</i>
 <br>Kipton Barros, <i>Los Alamos National Laboratory</i>
 <br>Allen Scheie, <i>Los Alamos National Laboratory</i>
+<br>Ying Wai Li, <i>Los Alamos National Laboratory</i>
 <br>Nicholas Lubbers, <i>Los Alamos National Laboratory</i>
 <br>Roxanne Tutchton, <i>Los Alamos National Laboratory</i>
 <br>Elizabeth Peterson, <i>Los Alamos National Laboratory</i>
