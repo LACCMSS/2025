@@ -28,11 +28,11 @@ Registration is required for non-LANL participants who will receive travel, room
 |-------|------|
 | Application open | November 15, 2024 |
 | Application deadline | <s>January 1, 2025 (**extended to February 1, 2025**)</s>|
-| Results announced | <s>January 15, 2025 February 15, 2025</s> <i style="text-color:Tomato;">Notice of acceptance have been sent.</i>|
-| Registration | <s>January 31, 2025 February 28, 2025</s> |
-| LANL onboarding package deadline | <s>March 7, 2025</s> |
-| Travel Itinerary Submitted | <s>May 30, 2025</s> |
-| Poster Title and Lightning Slide Submitted | <s>June 1, 2025</s> |
+| Results announced | <s>January 15, 2025 (**extended to February 15, 2025**)</s> <i style="text-color:Tomato;">Notice of acceptance have been sent.</i>|
+| Registration | <s>January 31, 2025 (**extended to February 28, 2025**)</s> |
+| LANL onboarding package deadline | <s>March 7, 2025</s> <i style="text-color:Tomato;">LANL Onboarding Complete.</i>|
+| Travel Itinerary Submitted | <s>May 30, 2025</s> <i style="text-color:Tomato;">Travel Itineraries Received.</i>|
+| Poster Title and Lightning Slide Submitted | <s>June 1, 2025</s> <i style="text-color:Tomato;">Poster Session is Full.</i>|
 | Arrival and Check-in | June 15, 2025 |
 | LACCM Summer School | June 16-27, 2025 |
 | Departure | June 28, 2025 |
