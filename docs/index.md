@@ -19,7 +19,9 @@ This two-week summer school aims to expose students to modern and emerging theor
 
 This school is open to both theoretical and experimental science students who have completed at least one year of graduate work and are familiar with advanced quantum mechanics and statistical mechanics. Each student will have the opportunity to present their work to encourage in-depth discussion. Questions are encouraged, free time and hands-on sessions give ample time for students to interact with Faculty and with each other. This school will help train the next generation of researchers to use and develop these tools and methods in their own research programs. 
 
-For non-LANL students, Travel, room, and board will be provided.
+Registration is required for non-LANL participants who will receive travel, room, and board.
+
+<strong style="color:red;">All LANL students, postdocs, and staff who are currently on-site do not need to register and are welcome to attend the entire two-week program or individual lectures/hands-on sessions of interest.</strong>
 
 ## Important Dates:
 |       | Date |
