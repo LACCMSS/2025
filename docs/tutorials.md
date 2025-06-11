@@ -5,4 +5,4 @@ hide:
 title: Tutorials
 ---
 
-Tutorials, hands-on lab materials and codes will be available here for students to download.
+Tutorials, hands-on lab materials and codes will be available here for participants to download.
