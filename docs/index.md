@@ -46,7 +46,7 @@ Registration is required for non-LANL participants who will receive travel, room
 * Material Informatics and ML/AI for Quantum Materials
 
 
-## How to Apply: [Here](apply.md)
+<!-- ## How to Apply: [Here](apply.md) -->
 
 
 ## Organizers
