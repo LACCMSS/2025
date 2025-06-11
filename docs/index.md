@@ -36,7 +36,7 @@ Travel, room, and board will be provided.
 | Departure | June 28, 2025 |
 
 
-## Topics Covered
+## Topics Include
 * Foundations of Density Functional Theory and Electronic Structure
 * The Effect of Electronic Correlations and Many-Body Theory
 * Numerical Approach to the Many-Body Problem
