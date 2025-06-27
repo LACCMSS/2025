@@ -55,7 +55,7 @@ Registration is required for non-LANL participants who will receive travel, room
 * Elizabeth Peterson, Theoretical Division, Los Alamos
 * Jianxin Zhu, Theoretical Division, Los Alamos
 * Ying Wai Li, Computer, Computational, and Statistical Sciences Division, Los Alamos
-* Johanna Palmstrom, National High Magnetic Field Laboratory: Pulsed Field Facility
+* Johanna Palmstrom, Weapon Systems Engineering Division, Los Alamos; National High Magnetic Field Laboratory: Pulsed Field Facility
 * Yue Huang, Center for Integrated Nanotechnologies
 
 
