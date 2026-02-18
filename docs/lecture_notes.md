@@ -22,7 +22,7 @@ title: Lecture Notes
 - [The Hunt for High-Tc Superconductivity: from Discovery to Breakthrough](assets/images/lecture_data/Christopher_Lane/LANL_SC_2025.pdf)
 
 ### Inna Vishik
-- [The Hunt for High-Tc Superconductivity: from Discovery to Breakthrough](assets/images/lecture_data/Inna_Vishik/ARPES_lecture_LANL.pdf)
+- [Angle-resolved photoemission spectroscopy: introduction and applications](assets/images/lecture_data/Inna_Vishik/ARPES_lecture_LANL.pdf)
 
 ### Richard Scalettar
 
