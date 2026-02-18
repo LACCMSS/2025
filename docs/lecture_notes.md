@@ -14,7 +14,7 @@ title: Lecture Notes
 ### Roxanne Tutchton
 
 ### Elizabeth Peterson
-- [DFT for Solids: The HSE Functional](assets/images/lecture_data/Liz_Peterson/laccmss_17jun25_v2.pdf)
+- [Predicting Properties from First-Principles I: Electronic and Magnetic Properties](assets/images/lecture_data/Liz_Peterson/laccmss_17jun25_v2.pdf)
 
 ### Richard Remsing
 
