@@ -54,6 +54,7 @@ title: Lecture Notes
 ### Cynthia Reichhardt
 
 ### Nicholas Lubbers
+- [Neural Architectures for Atomistic Machine Learning](assets/images/lecture_data/Nicholas_Lubbers/Architectures_LACCMSS2025_reduced.pdf)
 
 
 
