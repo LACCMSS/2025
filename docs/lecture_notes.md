@@ -5,6 +5,10 @@ hide:
 title: Lecture Notes
 ---
 
+# Overview
+- [Los Alamos Computational Condensed Matter Summer School: Overview](assets/images/lecture_data/#)
+- [Los Alamos Computational Condensed Matter Summer School: Closing Remarks](assets/images/lecture_data/LACCMSS_2025_conclusion.pdf)
+
 # Lecture Notes
 
 ### Gustavo E. Scuseria
