@@ -19,6 +19,9 @@ title: Lecture Notes
 ### Richard Remsing
 
 ### Christopher Lane
+- [Many Body Primer: Hand Written Lecture Notes](assets/images/lecture_data/Christopher_Lane/LANL_SC_2025.pdf)
+- [When Independent Particle Methods Fail: The Effect of Correlations](assets/images/lecture_data/Christopher_Lane/LANE_DFT_What_are_we_missing_Talk_2025.pdf)
+- [Theoretical Approaches to the Strongly Correlated Materials](assets/images/lecture_data/Christopher_Lane/LANE_DMFT_and_all_that_Talk_2025.pdf)
 - [The Hunt for High-Tc Superconductivity: from Discovery to Breakthrough](assets/images/lecture_data/Christopher_Lane/LANL_SC_2025.pdf)
 
 ### Inna Vishik
