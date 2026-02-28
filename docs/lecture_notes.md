@@ -5,7 +5,7 @@ hide:
 title: Lecture Notes
 ---
 
-# Overview
+# School Overview/Conclusion
 - [Los Alamos Computational Condensed Matter Summer School: Overview](assets/images/lecture_data/#)
 - [Los Alamos Computational Condensed Matter Summer School: Closing Remarks](assets/images/lecture_data/LACCMSS_2025_conclusion.pdf)
 
